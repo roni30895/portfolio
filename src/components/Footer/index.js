@@ -89,7 +89,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Palkesh Malviya</Logo>
+        <Logo>Rohan Pawar</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -104,7 +104,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.github} target="display"><GitHubIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Palkesh Malviya. All rights reserved.
+          &copy; 2023 Rohan Pawar. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
